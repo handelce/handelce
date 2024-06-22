@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Handel!
 
-<br />
-
 ### I'm a self-taught Full-Stack Developer and Software Engineer from Nigeria.
 
 I have over ten years of experience in App development ( Web and Desktop ), Linux Server Management and DevOps.
