@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Handel!
 
-### I'm a self-taught Full-Stack Developer and Software Engineer from Nigeria.
+### I'm a self-taught Full-Stack Developer, DevOps and Software Engineer from Nigeria.
 
-I have over ten years of experience in App development ( Web and Desktop ), Linux Server Management and DevOps.
+I have over 12 years of experience in App development ( Web and Desktop ), Linux Server Management and DevOps.
 
 ### Learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="48" height="48" title="Electron JS" style="margin-right: 10px" /><img src="https://img.icons8.com/color/48/000000/graphql.png" title="GraphQL"/>
